@@ -25,7 +25,24 @@
 * CloudFront: Content delivery network, distribuye informacion cuando sea requerida.
 * Glacier: Servicio de almacenamiento, guardar informacion (backups), como datos contables.
 * S3: Almacenamiento (se usa para informacion centralizada), almacenamiento de continuo acceso.
+
 ***
+
+### Bases de datos
+
+* DynamoDB: Servicio nosql de amazon. 
+* RDS: usado para desplegar bases de datos relacionales.
+* ElastiCache: Almacenado de informacion en memoria, que puede ser accedida por diferentes instancias.
+
+*** 
+
+### Despliegue de apliaciones
+
+* CloudFormation: Templates para desplegar apliaciones facilmente. (como un wordpress).  
+* CloudWatch: Monitoreo de los servicios de amazon.
+* IAM: Servicio de identificacion de los usuarios de la cuenta de amazon.
+* OpsWorks: Devops (formar pilas de requerimientos) para configurar que apliacion deseamos.  
+
 
 
 
