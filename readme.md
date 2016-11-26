@@ -41,8 +41,27 @@
 * CloudFormation: Templates para desplegar apliaciones facilmente. (como un wordpress).  
 * CloudWatch: Monitoreo de los servicios de amazon.
 * IAM: Servicio de identificacion de los usuarios de la cuenta de amazon.
-* OpsWorks: Devops (formar pilas de requerimientos) para configurar que apliacion deseamos.  
+* OpsWorks: Devops (formar pilas de requerimientos) para configurar que apliacion deseamos.
 
+***
+
+### Analisis de datos
+
+* MapReduce: Tratamiento de una gran cantidad de datos, analisar datos medicos, financieros, de juegos, etc.
+* Kinesis: PAra enviar informacion a servicios de de terceros o de aws muy rapidamente.
+
+*** 
+
+### Servicios adicionales
+
+* Cloud Search: Busquedas para una base de datos.
+* Transcoder: conversion de archivos media. 
+* SQS: Sistema de mensajeria de colas.
+* SES: Servidor de correos.
+
+***
+
+Workspace es como una pc remota.
 
 
 
