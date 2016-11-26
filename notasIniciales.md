@@ -12,11 +12,22 @@
 
 ## Servicios de AWS
 
+### Computación
+
 * EC2: Elastic compute (levantar maquinas virtuales) instancias, se trabajan balanceadores de cargas, escalamiento (programable).  
 * Route 53: Configuracion de DNS
 * VPC: Virtual Private Cloud (Red Local) para comunicarme de una instancia a otra. ejemplo: cluster de base de datos en un VPC y una red de apliaciones en otro.
 
 ***
+
+### Almacenamiento
+
+* CloudFront: Content delivery network, distribuye informacion cuando sea requerida.
+* Glacier: Servicio de almacenamiento, guardar informacion (backups), como datos contables.
+* S3: Almacenamiento (se usa para informacion centralizada), almacenamiento de continuo acceso.
+***
+
+
 
 
 
